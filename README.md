@@ -1,4 +1,4 @@
-# CodeChef Recipes
+# Accepted CodeChef Recipes
 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/codechef-recipes?style=for-the-badge)
