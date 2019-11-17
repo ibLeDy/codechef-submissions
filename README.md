@@ -1,9 +1,9 @@
 # CodeChef Recipes
 
 
-[![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python/search?l=python)
-[![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/exercisms-python)](https://github.com/ibLeDy/exercisms-python/commits/master)
+![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/codechef-recipes?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/codechef-recipes?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/codechef-recipes?style=for-the-badge)
 
 
 #### [KQ162019](https://www.codechef.com/KQ162019):
