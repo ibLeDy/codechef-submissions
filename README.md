@@ -20,4 +20,4 @@
 
 #### [COOK112B](https://www.codechef.com/COOK112B):
 
-  - [Chef Diet](python/COOK112B/chef-diet/main.py) ([DIET](https://www.codechef.com/COOK112B/problems/DIET))
+  - [Chef Diet](completed/COOK112B/chef-diet/main.py) ([DIET](https://www.codechef.com/COOK112B/problems/DIET))
