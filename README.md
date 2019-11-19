@@ -6,6 +6,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/codechef-recipes?style=for-the-badge)
 
 
+#### [Practice](https://www.codechef.com/problems/school):
+
+  - [BST Operations](completed/bst_operations.py) ([BSTOPS](https://www.codechef.com/problems/BSTOPS))
+  - [UEFA Champions League](completed/uefa_champions_league.py) ([UCL](https://www.codechef.com/problems/UCL))
+  - [When to Take Medicine](completed/when_to_take_medicine.py) ([MEDIC](https://www.codechef.com/problems/MEDIC))
+
 #### [KQ162019](https://www.codechef.com/KQ162019):
 
   - [Common Words](completed/KQ162019/common-words/main.py) ([QM16A](https://www.codechef.com/KQ162019/problems/QM16A))
