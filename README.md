@@ -1,10 +1,16 @@
-# CodeChef Recipes
+# Accepted CodeChef Recipes
 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/codechef-recipes?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/codechef-recipes?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/codechef-recipes?style=for-the-badge)
 
+
+#### [Practice](https://www.codechef.com/problems/school):
+
+  - [BST Operations](completed/bst_operations.py) ([BSTOPS](https://www.codechef.com/problems/BSTOPS))
+  - [UEFA Champions League](completed/uefa_champions_league.py) ([UCL](https://www.codechef.com/problems/UCL))
+  - [When to Take Medicine](completed/when_to_take_medicine.py) ([MEDIC](https://www.codechef.com/problems/MEDIC))
 
 #### [KQ162019](https://www.codechef.com/KQ162019):
 
