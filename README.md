@@ -21,3 +21,9 @@
 #### [COOK112B](https://www.codechef.com/COOK112B):
 
   - [Chef Diet](completed/COOK112B/chef-diet/main.py) ([DIET](https://www.codechef.com/COOK112B/problems/DIET))
+
+#### [DEC19B](https://www.codechef.com/DEC19B):
+
+  - [That is my Score!](completed/DEC19B/that-is-my-score/main.py) ([WATSCORE](https://www.codechef.com/DEC19B/problems/WATSCORE))
+  - [Plus Multiply](completed/DEC19B/plus-multiply/main.py) ([PLMU](https://www.codechef.com/DEC19B/problems/PLMU))
+  - [Addition](completed/DEC19B/addition/main.py) ([BINADD](https://www.codechef.com/DEC19B/problems/BINADD))
