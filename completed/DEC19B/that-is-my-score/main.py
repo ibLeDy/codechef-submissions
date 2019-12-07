@@ -13,7 +13,6 @@ def calculate_score(problems, scores):
     score = sum([s for s in max_scores.values()])
     return score if score else 0
 
-
 T = int(input())
 for i in range(T):
     P = []
