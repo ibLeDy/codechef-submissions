@@ -33,3 +33,7 @@
   - [That is my Score!](completed/DEC19B/that-is-my-score/main.py)
   - [Plus Multiply](completed/DEC19B/plus-multiply/main.py)
   - [Addition](completed/DEC19B/addition/main.py)
+
+#### [January Challenge 2020 Division 2](https://www.codechef.com/JAN20B):
+
+  - [Breaking Bricks](completed/JAN20B/breaking-bricks/main.py)
