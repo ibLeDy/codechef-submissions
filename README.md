@@ -1,6 +1,6 @@
-![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/codechef-recipes?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/codechef-recipes?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/codechef-recipes?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/ibledy/codechef-recipes)
+![GitHub repo size](https://img.shields.io/github/repo-size/ibledy/codechef-recipes)
+![GitHub last commit](https://img.shields.io/github/last-commit/ibledy/codechef-recipes)
 
 
 ## Fully Solved
