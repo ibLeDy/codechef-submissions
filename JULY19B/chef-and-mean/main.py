@@ -1,4 +1,4 @@
-T = int(input())  # test cases
+T = int(input())
 
 for i in range(T):
     N = int(input())
@@ -20,4 +20,5 @@ for i in range(T):
             break
         else:
             result = "Impossible"
+
     print(result)
