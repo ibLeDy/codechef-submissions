@@ -1,4 +1,3 @@
-# cook your dish here
 T = int(input()) # test cases
 
 for i in range(T):
@@ -16,7 +15,7 @@ for i in range(T):
         test_mean = initial_mean - A[test]
         testing = test_mean / test_len
 
-        if testing == mean:            
+        if testing == mean:
             result = test + 1
             break
         else:

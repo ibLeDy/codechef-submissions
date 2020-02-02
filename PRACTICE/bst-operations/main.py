@@ -1,5 +1,3 @@
-#!/usr/bin/env/python3
-
 class Node:
     def __init__(self, val, pos):
         self.val = val
@@ -25,7 +23,7 @@ def minimun(val):
 
     while curr_node.left != None:
         curr_node = curr_node.left
-    
+
     return curr_node
 
 def delete(node, val):

@@ -12,7 +12,7 @@ while test_cases > 0:
         goal2 = int(input_string[3])
         team1_score = score_dict.get(team1, [0, 0])
         team2_score = score_dict.get(team2, [0, 0])
-        
+
         if goal1 > goal2:
             team1_score[0] += 3
         elif goal1 == goal2:
@@ -33,7 +33,7 @@ while test_cases > 0:
     second_team = None
 
     for k, v in score_dict.items():
-        
+
         if first_team is None:
             first_team = k
 
