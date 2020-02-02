@@ -36,7 +36,7 @@
 
 ## Partially Solved
 
-#### December Challenge 2019 Division 2 - [DEC19B](https://www.codechef.com/DEC19B):
+#### [December Challenge 2019 Division 2](https://www.codechef.com/DEC19B):
 
   - [Plus Multiply](DEC19B/plus-multiply/main.py)
   - [Addition](DEC19B/addition/main.py)
@@ -44,9 +44,9 @@
 
 ## [Practice](https://www.codechef.com/problems/school):
 
-  - [UEFA Champions League](PRACTICE/uefa-champions-league/main.py) - [![logo]](https://www.codechef.com/problems/UCL)
-  - [BST Operations](PRACTICE/bst-operations/main.py) - [![logo]](https://www.codechef.com/problems/BSTOPS)
-  - [When to Take Medicine](PRACTICE/when-to-take-medicine/main.py) - [![logo]](https://www.codechef.com/problems/MEDIC)
+  - [UEFA Champions League](PRACTICE/uefa-champions-league/main.py) [![logo]](https://www.codechef.com/problems/UCL)
+  - [BST Operations](PRACTICE/bst-operations/main.py) [![logo]](https://www.codechef.com/problems/BSTOPS)
+  - [When to Take Medicine](PRACTICE/when-to-take-medicine/main.py) [![logo]](https://www.codechef.com/problems/MEDIC)
 
 
 [logo]: https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/12828268421557901896-16.png "Docs Logo"
