@@ -1,6 +1,3 @@
-# Accepted CodeChef Recipes
-
-
 ![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/codechef-recipes?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/codechef-recipes?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/codechef-recipes?style=for-the-badge)
@@ -45,8 +42,11 @@
   - [Addition](DEC19B/addition/main.py)
 
 
-## Practice - [SCHOOL](https://www.codechef.com/problems/school):
+## [Practice](https://www.codechef.com/problems/school):
 
-  - [UEFA Champions League](PRACTICE/uefa-champions-league/main.py) - [UCL](https://www.codechef.com/problems/UCL)
-  - [BST Operations](PRACTICE/bst-operations/main.py) - [BSTOPS](https://www.codechef.com/problems/BSTOPS)
-  - [When to Take Medicine](PRACTICE/when-to-take-medicine/main.py) - [MEDIC](https://www.codechef.com/problems/MEDIC)
+  - [UEFA Champions League](PRACTICE/uefa-champions-league/main.py) - [![logo]](https://www.codechef.com/problems/UCL)
+  - [BST Operations](PRACTICE/bst-operations/main.py) - [![logo]](https://www.codechef.com/problems/BSTOPS)
+  - [When to Take Medicine](PRACTICE/when-to-take-medicine/main.py) - [![logo]](https://www.codechef.com/problems/MEDIC)
+
+
+[logo]: https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/12828268421557901896-16.png "Docs Logo"
