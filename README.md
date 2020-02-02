@@ -37,3 +37,7 @@
 #### [January Challenge 2020 Division 2](https://www.codechef.com/JAN20B):
 
   - [Breaking Bricks](completed/JAN20B/breaking-bricks/main.py)
+
+#### [ketek[i] QuickMatch 20](https://www.codechef.com/QM202020):
+
+  - [One or Zero](completed/QM202020/one-or-zero/main.py)
