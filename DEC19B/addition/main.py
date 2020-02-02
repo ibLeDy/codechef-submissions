@@ -8,6 +8,7 @@ def add_function(a, b):
         b = v * 2
     return count
 
+
 T = int(input())
 for _ in range(T):
     A = int(input(), 2)

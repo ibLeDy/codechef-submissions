@@ -11,7 +11,7 @@ for i in range(t):
         if j in n:
             result = True
 
-    if result == True:
+    if result is True:
         print("Yes")
     else:
         print("No")

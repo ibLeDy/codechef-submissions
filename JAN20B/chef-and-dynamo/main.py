@@ -19,7 +19,7 @@ def hit(s, bricks):
             bricks.popleft()
             bricks.popleft()
         else:
-            if bricks[1]<= S:
+            if bricks[1] <= S:
                 bricks.pop()
 
     elif len(bricks) == 1:

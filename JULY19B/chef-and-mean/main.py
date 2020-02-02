@@ -1,4 +1,4 @@
-T = int(input()) # test cases
+T = int(input())  # test cases
 
 for i in range(T):
     N = int(input())

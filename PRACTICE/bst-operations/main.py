@@ -5,8 +5,8 @@ class Node:
         self.left = None
         self.right = None
 
-def insert(node, val, pos):
 
+def insert(node, val, pos):
     if node is None:
         print(pos)
         return Node(val, pos)
@@ -18,31 +18,32 @@ def insert(node, val, pos):
 
     return node
 
+
 def minimun(val):
     curr_node = val
 
-    while curr_node.left != None:
+    while curr_node.left is not None:
         curr_node = curr_node.left
 
     return curr_node
 
-def delete(node, val):
 
+def delete(node, val):
     if node is None:
         return node
     if val < node.val:
-        node.left= delete(node.left, val)
+        node.left = delete(node.left, val)
     elif val > node.val:
         node.right = delete(node.right, val)
     else:
         print(node.pos)
 
-        if node.left == None:
+        if node.left is None:
             temp = node.right
             node = None
             return temp
 
-        elif node.right == None:
+        elif node.right is None:
             temp = node.left
             node = None
             return temp
@@ -52,6 +53,7 @@ def delete(node, val):
         node.right = delete(node.right, temp.val)
 
     return node
+
 
 query = None
 root = None
@@ -71,5 +73,5 @@ try:
         elif bst[0] == "d":
             root = delete(root, int(bst[1]))
 
-except:
+except Exception:
     pass
