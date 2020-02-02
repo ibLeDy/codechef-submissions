@@ -12,7 +12,7 @@
   - [UEFA Champions League](completed/uefa_champions_league.py)
   - [When to Take Medicine](completed/when_to_take_medicine.py)
 
-#### [Keteki Power Match June 2019](https://www.codechef.com/KQ162019):
+#### [ketek[i] Power Match June 2019](https://www.codechef.com/KQ162019):
 
   - [Common Words](completed/KQ162019/common-words/main.py)
 
