@@ -24,12 +24,13 @@ repos:
     hooks:
     -   id: mypy
         args: ["--scripts-are-modules"]
+        always_run: false
 
 -   repo: https://github.com/jumanjihouse/pre-commit-hooks
     rev: 1.11.2
     hooks:
       - id: markdownlint
-        args: ["--rules ~MD013,~MD024"]
+        args: ["--rules ~MD013,~MD024,~MD007"]
 
 -   repo: https://github.com/Lucas-C/pre-commit-hooks-safety
     rev: v1.1.0
