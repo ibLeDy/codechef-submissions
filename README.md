@@ -28,6 +28,12 @@
 - [ketek[i] QuickMatch 20](https://www.codechef.com/QM202020)
     - [One or Zero](QM202020/one-or-zero/main.py)
 
+- [Code Raptor Contest](https://www.codechef.com/CRPC2020)
+    - [Spy Number](CRPC2020/spy-number/main.py)
+    - [Duplicates Removal](CRPC2020/duplicates-removal/main.py)
+    - [Word Pattern](CRPC2020/word-pattern/main.py)
+    - [Number Pattern](CRPC2020/number-pattern/main.py)
+
 
 ## Partially Solved
 
@@ -41,6 +47,10 @@
 - [Fool's Programming](https://www.codechef.com/FOLG2020)
     - [The Beginning of Everything](FOLG2020/the-beginning-of-everything/main.py)
     - [Et tu Brute](FOLG2020/et-tu-brute/main.py)
+
+- [Code Raptor Contest](https://www.codechef.com/CRPC2020)
+    - [Hashing Tech](CRPC2020/hashing-tech/main.py)
+
 
 
 ## [Practice](https://www.codechef.com/problems/school)
