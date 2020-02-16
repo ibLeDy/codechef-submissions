@@ -34,6 +34,9 @@
     - [Word Pattern](CRPC2020/word-pattern/main.py)
     - [Number Pattern](CRPC2020/number-pattern/main.py)
 
+- [February Cook-Off 2020 Division 2](https://www.codechef.com/COOK115B)
+    - [Tax Slabs](COOK115B/tax-slabs/main.py)
+
 
 ## Partially Solved
 
