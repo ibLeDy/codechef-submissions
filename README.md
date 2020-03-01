@@ -37,6 +37,9 @@
 - [February Cook-Off 2020 Division 2](https://www.codechef.com/COOK115B)
     - [Tax Slabs](COOK115B/tax-slabs/main.py)
 
+- [Cook-a-Code](https://www.codechef.com/CACD2020)
+    - [Pushkar Pair](CACD2020/pushkar-pair/main.py)
+
 
 ## Partially Solved
 
@@ -45,7 +48,7 @@
     - [Addition](DEC19B/addition/main.py)
 
 
-## Wrong Answer
+## Thought Would Work
 
 - [Fool's Programming](https://www.codechef.com/FOLG2020)
     - [The Beginning of Everything](FOLG2020/the-beginning-of-everything/main.py)
@@ -53,6 +56,9 @@
 
 - [Code Raptor Contest](https://www.codechef.com/CRPC2020)
     - [Hashing Tech](CRPC2020/hashing-tech/main.py)
+
+- [Cook-a-Code](https://www.codechef.com/CACD2020)
+    - [Treasure Hunt](CACD2020/treasure-hunt/main.py)
 
 
 
