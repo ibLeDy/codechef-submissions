@@ -47,6 +47,9 @@
     - [Plus Multiply](DEC19B/plus-multiply/main.py)
     - [Addition](DEC19B/addition/main.py)
 
+- [ketek[i] QuickMatch 24](https://www.codechef.com/QM242020)
+    - [Minimum Change](QM242020/minimum-change/main.py)
+
 
 ## Thought Would Work
 
