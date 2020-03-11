@@ -70,5 +70,6 @@
 - [UEFA Champions League](PRACTICE/uefa-champions-league/main.py) [![logo]](https://www.codechef.com/problems/UCL)
 - [BST Operations](PRACTICE/bst-operations/main.py) [![logo]](https://www.codechef.com/problems/BSTOPS)
 - [When to Take Medicine](PRACTICE/when-to-take-medicine/main.py) [![logo]](https://www.codechef.com/problems/MEDIC)
+- [Enormous Input Test](PRACTICE/enormous-input-test/main.py) [![logo]](https://www.codechef.com/problems/INTEST)
 
 [logo]: https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/12828268421557901896-16.png "Docs Logo"
