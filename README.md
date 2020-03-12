@@ -63,6 +63,8 @@
 - [Cook-a-Code](https://www.codechef.com/CACD2020)
     - [Treasure Hunt](CACD2020/treasure-hunt/main.py)
 
+- [Coding Squad](https://www.codechef.com/COSQ2020)
+    - [Protecting Gotham](COSQ2020/protecting-gotham/main.py)
 
 
 ## [Practice](https://www.codechef.com/problems/school)
