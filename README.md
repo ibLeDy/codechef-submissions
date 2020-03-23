@@ -40,6 +40,9 @@
 - [Cook-a-Code](https://www.codechef.com/CACD2020)
     - [Pushkar Pair](CACD2020/pushkar-pair/main.py)
 
+- [March Challenge 2020 Division 2](https://www.codechef.com/MARCH20B)
+    - [Pintu and Fruits](MARCH20B/pintu-and-fruits/main.py)
+
 
 ## Partially Solved
 
@@ -65,6 +68,9 @@
 
 - [Coding Squad](https://www.codechef.com/COSQ2020)
     - [Protecting Gotham](COSQ2020/protecting-gotham/main.py)
+
+- [March Challenge 2020 Division 2](https://www.codechef.com/MARCH20B)
+    - [XOR Engine](MARCH20B/xor-engine/main.py)
 
 
 ## [Practice](https://www.codechef.com/problems/school)
