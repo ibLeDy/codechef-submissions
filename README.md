@@ -75,6 +75,13 @@
 - [Pintu and Fruits](MARCH20B/CHPINTU/main.py) &nbsp; [![green_check]](https://www.codechef.com/MARCH20B/problems/CHPINTU)
 
 
+## [JLUG Placement Series](https://www.codechef.com/JLUG2020)
+
+- [Break The Bricks](JLUG2020/BRKTBRK/main.py) &nbsp; [![green_check]](https://www.codechef.com/JLUG2020/problems/BRKTBRK)
+- [Letter Change](JLUG2020/LTRCHNG/main.py) &nbsp; [![green_check]](https://www.codechef.com/JLUG2020/problems/LTRCHNG)
+- [Hex Numbers](JLUG2020/HXTDC/main.py) &nbsp; [![green_check]](https://www.codechef.com/JLUG2020/problems/HXTDC)
+
+
 ## [Practice](https://www.codechef.com/problems/school)
 
 - [UEFA Champions League](PRACTICE/UCL/main.py) &nbsp; [![green_check]](https://www.codechef.com/problems/UCL)
