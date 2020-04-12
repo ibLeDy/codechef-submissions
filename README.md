@@ -5,79 +5,71 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ibledy/codechef-recipes)
 
 
-## Fully Solved
+## [ketek[i] Power Match June 2019](https://www.codechef.com/KQ162019)
 
-- [ketek[i] Power Match June 2019](https://www.codechef.com/KQ162019)
-    - [Common Words](KQ162019/common-words/main.py)
+- [Common Words](KQ162019/common-words/main.py) &nbsp; ![green_check]
 
-- [July Challenge 2019 Division 2](https://www.codechef.com/JULY19B)
-    - [Chef and Mean](JULY19B/chef-and-mean/main.py)
+## [July Challenge 2019 Division 2](https://www.codechef.com/JULY19B)
 
-- [Encoding October 2019](https://www.codechef.com/ENOC2019)
-    - [Debanjan got a Date](ENOC2019/debanjan-got-a-date/main.py)
+- [Chef and Mean](JULY19B/chef-and-mean/main.py) &nbsp; ![green_check]
 
-- [November Cook-Off 2019 Division 2](https://www.codechef.com/COOK112B)
-    - [Chef Diet](COOK112B/chef-diet/main.py)
+## [Encoding October 2019](https://www.codechef.com/ENOC2019)
 
-- [December Challenge 2019 Division 2](https://www.codechef.com/DEC19B)
-    - [That is my Score!](DEC19B/that-is-my-score/main.py)
+- [Debanjan got a Date](ENOC2019/debanjan-got-a-date/main.py) &nbsp; ![green_check]
 
-- [January Challenge 2020 Division 2](https://www.codechef.com/JAN20B)
-    - [Breaking Bricks](JAN20B/breaking-bricks/main.py)
+## [November Cook-Off 2019 Division 2](https://www.codechef.com/COOK112B)
 
-- [ketek[i] QuickMatch 20](https://www.codechef.com/QM202020)
-    - [One or Zero](QM202020/one-or-zero/main.py)
+- [Chef Diet](COOK112B/chef-diet/main.py) &nbsp; ![green_check]
 
-- [Code Raptor Contest](https://www.codechef.com/CRPC2020)
-    - [Spy Number](CRPC2020/spy-number/main.py)
-    - [Duplicates Removal](CRPC2020/duplicates-removal/main.py)
-    - [Word Pattern](CRPC2020/word-pattern/main.py)
-    - [Number Pattern](CRPC2020/number-pattern/main.py)
+## [December Challenge 2019 Division 2](https://www.codechef.com/DEC19B)
 
-- [February Cook-Off 2020 Division 2](https://www.codechef.com/COOK115B)
-    - [Tax Slabs](COOK115B/tax-slabs/main.py)
+- [That is my Score!](DEC19B/that-is-my-score/main.py) &nbsp; ![green_check]
 
-- [Cook-a-Code](https://www.codechef.com/CACD2020)
-    - [Pushkar Pair](CACD2020/pushkar-pair/main.py)
+- [Plus Multiply](DEC19B/plus-multiply/main.py) &nbsp; ![yellow_check]
 
-- [March Challenge 2020 Division 2](https://www.codechef.com/MARCH20B)
-    - [Pintu and Fruits](MARCH20B/pintu-and-fruits/main.py)
+- [Addition](DEC19B/addition/main.py) &nbsp; ![yellow_check]
 
+## [January Challenge 2020 Division 2](https://www.codechef.com/JAN20B)
 
-## Partially Solved
+- [Breaking Bricks](JAN20B/breaking-bricks/main.py) &nbsp; ![green_check]
 
-- [December Challenge 2019 Division 2](https://www.codechef.com/DEC19B)
-    - [Plus Multiply](DEC19B/plus-multiply/main.py)
-    - [Addition](DEC19B/addition/main.py)
+## [ketek[i] QuickMatch 20](https://www.codechef.com/QM202020)
 
-- [ketek[i] QuickMatch 24](https://www.codechef.com/QM242020)
-    - [Minimum Change](QM242020/minimum-change/main.py)
+- [One or Zero](QM202020/one-or-zero/main.py) &nbsp; ![green_check]
 
+## [Code Raptor Contest](https://www.codechef.com/CRPC2020)
 
-## Thought Would Work
+- [Spy Number](CRPC2020/spy-number/main.py) &nbsp; ![green_check]
 
-- [Fool's Programming](https://www.codechef.com/FOLG2020)
-    - [The Beginning of Everything](FOLG2020/the-beginning-of-everything/main.py)
-    - [Et tu Brute](FOLG2020/et-tu-brute/main.py)
+- [Duplicates Removal](CRPC2020/duplicates-removal/main.py) &nbsp; ![green_check]
 
-- [Code Raptor Contest](https://www.codechef.com/CRPC2020)
-    - [Hashing Tech](CRPC2020/hashing-tech/main.py)
+- [Word Pattern](CRPC2020/word-pattern/main.py) &nbsp; ![green_check]
 
-- [Cook-a-Code](https://www.codechef.com/CACD2020)
-    - [Treasure Hunt](CACD2020/treasure-hunt/main.py)
+- [Number Pattern](CRPC2020/number-pattern/main.py) &nbsp; ![green_check]
 
-- [Coding Squad](https://www.codechef.com/COSQ2020)
-    - [Protecting Gotham](COSQ2020/protecting-gotham/main.py)
+## [February Cook-Off 2020 Division 2](https://www.codechef.com/COOK115B)
 
-- [March Challenge 2020 Division 2](https://www.codechef.com/MARCH20B)
-    - [XOR Engine](MARCH20B/xor-engine/main.py)
+- [Tax Slabs](COOK115B/tax-slabs/main.py) &nbsp; ![green_check]
+
+## [Cook-a-Code](https://www.codechef.com/CACD2020)
+
+- [Pushkar Pair](CACD2020/pushkar-pair/main.py) &nbsp; ![green_check]
+
+## [ketek[i] QuickMatch 24](https://www.codechef.com/QM242020)
+
+- [Minimum Change](QM242020/minimum-change/main.py) &nbsp; ![yellow_check]
+
+## [March Challenge 2020 Division 2](https://www.codechef.com/MARCH20B)
+
+- [Pintu and Fruits](MARCH20B/pintu-and-fruits/main.py) &nbsp; ![green_check]
 
 
 ## [Practice](https://www.codechef.com/problems/school)
 
-- [UEFA Champions League](PRACTICE/uefa-champions-league/main.py) [![logo]](https://www.codechef.com/problems/UCL)
-- [BST Operations](PRACTICE/bst-operations/main.py) [![logo]](https://www.codechef.com/problems/BSTOPS)
-- [When to Take Medicine](PRACTICE/when-to-take-medicine/main.py) [![logo]](https://www.codechef.com/problems/MEDIC)
-- [Enormous Input Test](PRACTICE/enormous-input-test/main.py) [![logo]](https://www.codechef.com/problems/INTEST)
+- [UEFA Champions League](PRACTICE/uefa-champions-league/main.py) [*(UCL)*](https://www.codechef.com/problems/UCL) &nbsp; ![green_check]
+- [BST Operations](PRACTICE/bst-operations/main.py) [*(BSTOPS)*](https://www.codechef.com/problems/BSTOPS) &nbsp; ![green_check]
+- [When to Take Medicine](PRACTICE/when-to-take-medicine/main.py) [*(MEDIC)*](https://www.codechef.com/problems/MEDIC) &nbsp; ![green_check]
+- [Enormous Input Test](PRACTICE/enormous-input-test/main.py) [*(INTEST)*](https://www.codechef.com/problems/INTEST) &nbsp; ![green_check]
 
-[logo]: https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/12828268421557901896-16.png "Docs Logo"
+[yellow_check]: assets/yellow_check.png "Partially Solved"
+[green_check]: assets/green_check.png "Fully Solved"
