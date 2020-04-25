@@ -4,6 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ibledy/codechef-recipes)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ibledy/codechef-recipes)
 
+`Check marks link to the problem statement`
 
 ## [ketek[i] Power Match June 2019](https://www.codechef.com/KQ162019)
 
@@ -92,5 +93,3 @@
 
 [yellow_check]: assets/yellow_check.png "Partially Solved (link to problem)"
 [green_check]: assets/green_check.png "Fully Solved (link to problem)"
-
-`Check marks link to the problem`
