@@ -83,6 +83,16 @@
 - [Hex Numbers](JLUG2020/HXTDC/main.py) &nbsp; [![green_check]](https://www.codechef.com/JLUG2020/problems/HXTDC)
 
 
+## [DSA Learning Series](https://www.codechef.com/LEARNDSA)
+
+### [1: Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)
+
+- [Life, the Universe, and Everything](LRNDSA01/TEST/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/TEST)
+- [Reverse The Number](LRNDSA01/FLOW007/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/FLOW007)
+- [Lapindromes](LRNDSA01/LAPIN/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/LAPIN)
+- [Carvans](LRNDSA01/CARVANS/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/CARVANS)
+
+
 ## [Practice](https://www.codechef.com/problems/school)
 
 - [UEFA Champions League](PRACTICE/UCL/main.py) &nbsp; [![green_check]](https://www.codechef.com/problems/UCL)
