@@ -89,13 +89,13 @@
 
 ### [1: Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)
 
-- [Life, the Universe, and Everything](LRNDSA01/TEST/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/TEST)
+- [Life, the Universe, and Everything](LEARNDSA/LRNDSA01/TEST/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/TEST)
 
-- [Reverse The Number](LRNDSA01/FLOW007/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/FLOW007)
+- [Reverse The Number](LEARNDSA/LRNDSA01/FLOW007/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/FLOW007)
 
-- [Lapindromes](LRNDSA01/LAPIN/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/LAPIN)
+- [Lapindromes](LEARNDSA/LRNDSA01/LAPIN/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/LAPIN)
 
-- [Carvans](LRNDSA01/CARVANS/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/CARVANS)
+- [Carvans](LEARNDSA/LRNDSA01/CARVANS/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/CARVANS)
 
 
 ## [ketek[i] Match 25.5](https://www.codechef.com/KM252020)
