@@ -1,10 +1,10 @@
-# Codechef Recipes by [bLeDy](https://www.codechef.com/users/bledy)
+# CodeChef Recipes by [bLeDy](https://www.codechef.com/users/bledy)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ibledy/codechef-recipes)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ibledy/codechef-recipes)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ibledy/codechef-recipes)
 
-`Check marks link to the problem statement`
+`Check marks link to the problem statement on CodeChef`
 
 ## [ketek[i] Power Match June 2019](https://www.codechef.com/KQ162019)
 
@@ -79,7 +79,9 @@
 ## [JLUG Placement Series](https://www.codechef.com/JLUG2020)
 
 - [Break The Bricks](JLUG2020/BRKTBRK/main.py) &nbsp; [![green_check]](https://www.codechef.com/JLUG2020/problems/BRKTBRK)
+
 - [Letter Change](JLUG2020/LTRCHNG/main.py) &nbsp; [![green_check]](https://www.codechef.com/JLUG2020/problems/LTRCHNG)
+
 - [Hex Numbers](JLUG2020/HXTDC/main.py) &nbsp; [![green_check]](https://www.codechef.com/JLUG2020/problems/HXTDC)
 
 
@@ -88,16 +90,27 @@
 ### [1: Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)
 
 - [Life, the Universe, and Everything](LRNDSA01/TEST/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/TEST)
+
 - [Reverse The Number](LRNDSA01/FLOW007/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/FLOW007)
+
 - [Lapindromes](LRNDSA01/LAPIN/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/LAPIN)
+
 - [Carvans](LRNDSA01/CARVANS/main.py) &nbsp; [![green_check]](https://www.codechef.com/LRNDSA01/problems/CARVANS)
+
+
+## [ketek[i] Match 25.5](https://www.codechef.com/KM252020)
+
+- [Reverse Binary](KM252020/QM25P5A/main.py) &nbsp; [![green_check]](https://www.codechef.com/KM252020/problems/QM25P5A)
 
 
 ## [Practice](https://www.codechef.com/problems/school)
 
 - [UEFA Champions League](PRACTICE/UCL/main.py) &nbsp; [![green_check]](https://www.codechef.com/problems/UCL)
+
 - [BST Operations](PRACTICE/BSTOPS/main.py) &nbsp; [![green_check]](https://www.codechef.com/problems/BSTOPS)
+
 - [When to Take Medicine](PRACTICE/MEDIC/main.py) &nbsp; [![green_check]](https://www.codechef.com/problems/MEDIC)
+
 - [Enormous Input Test](PRACTICE/INTEST/main.py) &nbsp; [![green_check]](https://www.codechef.com/problems/INTEST)
 
 
