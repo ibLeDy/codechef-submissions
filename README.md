@@ -103,6 +103,11 @@
 - [Reverse Binary](KM252020/QM25P5A/main.py) &nbsp; [![green_check]](https://www.codechef.com/KM252020/problems/QM25P5A)
 
 
+## [Crack me if you can!](https://www.codechef.com/CMYC2020)
+
+- [Voritex and string](CMYC2020/CXORJ/main.py) &nbsp; [![green_check]](https://www.codechef.com/CMYC2020/problems/CXORJ)
+
+
 ## [Practice](https://www.codechef.com/problems/school)
 
 - [UEFA Champions League](PRACTICE/UCL/main.py) &nbsp; [![green_check]](https://www.codechef.com/problems/UCL)
