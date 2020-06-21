@@ -27,7 +27,7 @@ def hit(bricks):
         if bricks[0] <= S:
             bricks.pop()
         else:
-            raise ValueError("Last brick too stronk")
+            raise ValueError('Last brick too stronk')
 
     return bricks
 

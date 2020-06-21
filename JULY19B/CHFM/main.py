@@ -2,8 +2,8 @@ T = int(input())
 
 for i in range(T):
     N = int(input())
-    A = [int(j) for j in input().split(" ")]
-    result = ""
+    A = [int(j) for j in input().split(' ')]
+    result = ''
 
     initial_mean = 0
     for number in A:
@@ -19,6 +19,6 @@ for i in range(T):
             result = test + 1
             break
         else:
-            result = "Impossible"
+            result = 'Impossible'
 
     print(result)

@@ -14,6 +14,6 @@ for _ in range(T):
     end = Counter(''.join(string[length // 2:]))
 
     if start == end:
-        print("YES")
+        print('YES')
     else:
-        print("NO")
+        print('NO')

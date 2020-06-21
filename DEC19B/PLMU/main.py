@@ -1,7 +1,7 @@
 from collections import deque
 import sys
 
-lines = deque([l.strip() for l in sys.stdin.readlines()])
+lines = deque([line.strip() for line in sys.stdin.readlines()])
 T = int(lines.popleft())
 for _ in range(T):
     N = int(lines.popleft())
@@ -17,4 +17,4 @@ for _ in range(T):
             if num1 + num2 == num1 * num2:
                 pairs.add((count1, count2 + count1))
 
-    sys.stdout.write(str(len(pairs)) + "\n")
+    sys.stdout.write(str(len(pairs)) + '\n')

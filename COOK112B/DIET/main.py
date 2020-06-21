@@ -10,9 +10,9 @@ def calculate(K, A):
         elif i < K:
             storage -= K - i
             if storage < 0:
-                return f"NO {count}"
+                return f'NO {count}'
         count += 1
-    return "YES"
+    return 'YES'
 
 
 for i in range(T):

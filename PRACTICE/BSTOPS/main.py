@@ -61,16 +61,16 @@ root = None
 try:
     query = int(input())
     bst = []
-    inp_query = ""
+    inp_query = ''
     pos = -1
 
     for q in range(query):
         inp_query = input()
-        bst = inp_query.split(" ")
+        bst = inp_query.split(' ')
 
-        if bst[0] == "i":
+        if bst[0] == 'i':
             root = insert(root, int(bst[1]), 1)
-        elif bst[0] == "d":
+        elif bst[0] == 'd':
             root = delete(root, int(bst[1]))
 
 except Exception:

@@ -7,4 +7,4 @@ for char in input():
     multiplied *= char
 
 if summed == multiplied:
-    print("spy number")
+    print('spy number')

@@ -4,14 +4,14 @@ first = []
 second = []
 for i in range(t):
     result = False
-    n = input().lower().split(" ")
-    m = input().lower().split(" ")
+    n = input().lower().split(' ')
+    m = input().lower().split(' ')
 
     for j in m:
         if j in n:
             result = True
 
     if result is True:
-        print("Yes")
+        print('Yes')
     else:
-        print("No")
+        print('No')
