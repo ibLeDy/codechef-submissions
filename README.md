@@ -87,6 +87,14 @@
 ### [June Cook-Off 2020 Division 2](https://www.codechef.com/COOK119B "Visit contest on CodeChef (COOK119B)")
 - [Cache Hits](COOK119B/CACHEHIT/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CACHEHIT)")](https://www.codechef.com/COOK119B/problems/CACHEHIT)
 
+### [Encoding August'20](https://www.codechef.com/ENAU2020 "Visit contest on CodeChef (ENAU2020)")
+- [Angry Delta](ENAU2020/ECAUG202/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (ECAUG202)")](https://www.codechef.com/ENAU2020/problems/ECAUG202)
+
+### [CODEZEN 2.0](https://www.codechef.com/CZEN2020 "Visit contest on CodeChef (CZEN2020)")
+- [Zenny and Simple Sum](CZEN2020/SIPM/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (SIPM)")](https://www.codechef.com/CZEN2020/problems/SIPM)
+- [Sports Championship](CZEN2020/ZRACE/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (ZRACE)")](https://www.codechef.com/CZEN2020/problems/ZRACE)
+- [Alien New Challenge](CZEN2020/ALCHH/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (ALCHH)")](https://www.codechef.com/CZEN2020/problems/ALCHH)
+
 
 ### [Practice](https://www.codechef.com/problems/school "Visit practice problems on CodeChef")
 - [UEFA Champions League](PRACTICE/UCL/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (UCL)")](https://www.codechef.com/problems/UCL)
