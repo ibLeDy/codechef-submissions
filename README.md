@@ -5,99 +5,226 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ibledy/codechef-recipes)
 
 
-### [ketek[i] Power Match June 2019](https://www.codechef.com/KQ162019 "Visit contest on CodeChef (KQ162019)")
+<details>
+<summary>
+    ketek[i] Power Match June 2019 <a href="https://www.codechef.com/KQ162019">(KQ162019)</a>
+</summary>
+
 - [Common Words](KQ162019/QM16A/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (QM16A)")](https://www.codechef.com/KQ162019/problems/QM16A)
 
+</details>
 
-### [July Challenge 2019 Division 2](https://www.codechef.com/JULY19B "Visit contest on CodeChef (JULY19B)")
+
+<details>
+<summary>
+    July Challenge 2019 Division 2 <a href="https://www.codechef.com/JULY19B">(JULY19B)</a>
+</summary>
+
 - [Chef and Mean](JULY19B/CHFM/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CHFM)")](https://www.codechef.com/JULY19B/problems/CHFM)
 
+</details>
 
-### [Encoding October 2019](https://www.codechef.com/ENOC2019 "Visit contest on CodeChef (ENOC2019)")
+
+<details>
+<summary>
+    Encoding October 2019 <a href="https://www.codechef.com/ENOC2019">(ENOC2019)</a>
+</summary>
+
 - [Debanjan got a Date](ENOC2019/EN123/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (EN123)")](https://www.codechef.com/ENOC2019/problems/EN123)
 
+</details>
 
-### [November Cook-Off 2019 Division 2](https://www.codechef.com/COOK112B "Visit contest on CodeChef (COOK112B)")
+
+<details>
+<summary>
+    November Cook-Off 2019 Division 2 <a href="https://www.codechef.com/COOK112B">(COOK112B)</a>
+</summary>
+
 - [Chef Diet](COOK112B/DIET/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (DIET)")](https://www.codechef.com/COOK112B/problems/DIET)
 
+</details>
 
-### [December Challenge 2019 Division 2](https://www.codechef.com/DEC19B "Visit contest on CodeChef (DEC19B)")
+
+<details>
+<summary>
+    December Challenge 2019 Division 2 <a href="https://www.codechef.com/DEC19B">(DEC19B)</a>
+</summary>
+
 - [That is my Score!](DEC19B/WATSCORE/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (WATSCORE)")](https://www.codechef.com/DEC19B/problems/WATSCORE)
 - [Plus Multiply](DEC19B/PLMU/main.py) [![CodeChef yellow icon](assets/codechef_yellow.svg "View problem on CodeChef (PLMU)")](https://www.codechef.com/DEC19B/problems/PLMU)
 - [Addition](DEC19B/BINADD/main.py) [![CodeChef yellow icon](assets/codechef_yellow.svg "View problem on CodeChef (BINADD)")](https://www.codechef.com/DEC19B/problems/BINADD)
 
+</details>
 
-### [January Challenge 2020 Division 2](https://www.codechef.com/JAN20B "Visit contest on CodeChef (JAN20B)")
+
+<details>
+<summary>
+    January Challenge 2020 Division 2 <a href="https://www.codechef.com/JAN20B">(JAN20B)</a>
+</summary>
+
 - [Breaking Bricks](JAN20B/BRKBKS/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (BRKBKS)")](https://www.codechef.com/JAN20B/problems/BRKBKS)
 
+</details>
 
-### [ketek[i] QuickMatch 20](https://www.codechef.com/QM202020 "Visit contest on CodeChef (QM202020)")
+
+<details>
+<summary>
+    ketek[i] QuickMatch 20 <a href="https://www.codechef.com/QM202020">(QM202020)</a>
+</summary>
+
 - [One or Zero](QM202020/QM20A/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (QM20A)")](https://www.codechef.com/QM202020/problems/QM20A)
 
+</details>
 
-### [Code Raptor Contest](https://www.codechef.com/CRPC2020 "Visit contest on CodeChef (CRPC2020)")
+
+<details>
+<summary>
+    Code Raptor Contest <a href="https://www.codechef.com/CRPC2020">(CRPC2020)</a>
+</summary>
+
 - [Spy Number](CRPC2020/SPY05/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (SPY05)")](https://www.codechef.com/CRPC2020/problems/SPY05)
 - [Duplicates Removal](CRPC2020/REMDUP01/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (REMDUP01)")](https://www.codechef.com/CRPC2020/problems/REMDUP01)
 - [Word Pattern](CRPC2020/WOPAT04/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (WOPAT04)")](https://www.codechef.com/CRPC2020/problems/WOPAT04)
 - [Number Pattern](CRPC2020/NUMPAT02/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (NUMPAT02)")](https://www.codechef.com/CRPC2020/problems/NUMPAT02)
 
+</details>
 
-### [February Cook-Off 2020 Division 2](https://www.codechef.com/COOK115B "Visit contest on CodeChef (COOK115B)")
+
+<details>
+<summary>
+    February Cook-Off 2020 Division 2 <a href="https://www.codechef.com/COOK115B">(COOK115B)</a>
+</summary>
+
 - [Tax Slabs](COOK115B/SLAB/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (SLAB)")](https://www.codechef.com/COOK115B/problems/SLAB)
 
+</details>
 
-### [Cook-a-Code](https://www.codechef.com/CACD2020 "Visit contest on CodeChef (CACD2020)")
+
+<details>
+<summary>
+    Cook-a-Code <a href="https://www.codechef.com/CACD2020">(CACD2020)</a>
+</summary>
+
 - [Pushkar Pair](CACD2020/PPPR/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (PPPR)")](https://www.codechef.com/CACD2020/problems/PPPR)
 
+</details>
 
-### [ketek[i] QuickMatch 24](https://www.codechef.com/QM242020 "Visit contest on CodeChef (QM242020)")
+
+<details>
+<summary>
+    ketek[i] QuickMatch 24 <a href="https://www.codechef.com/QM242020">(QM242020)</a>
+</summary>
+
 - [Minimum Change](QM242020/KQM24A/main.py) [![CodeChef yellow icon](assets/codechef_yellow.svg "View problem on CodeChef (KQM24A)")](https://www.codechef.com/QM242020/problems/KQM24A)
 
+</details>
 
-### [March Challenge 2020 Division 2](https://www.codechef.com/MARCH20B "Visit contest on CodeChef (MARCH20B)")
+
+<details>
+<summary>
+    March Challenge 2020 Division 2 <a href="https://www.codechef.com/MARCH20B">(MARCH20B)</a>
+</summary>
+
 - [Pintu and Fruits](MARCH20B/CHPINTU/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CHPINTU)")](https://www.codechef.com/MARCH20B/problems/CHPINTU)
 
+</details>
 
-### [JLUG Placement Series](https://www.codechef.com/JLUG2020 "Visit contest on CodeChef (JLUG2020)")
+
+<details>
+<summary>
+    JLUG Placement Series <a href="https://www.codechef.com/JLUG2020">(JLUG2020)</a>
+</summary>
+
 - [Break The Bricks](JLUG2020/BRKTBRK/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (BRKTBRK)")](https://www.codechef.com/JLUG2020/problems/BRKTBRK)
 - [Letter Change](JLUG2020/LTRCHNG/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (LTRCHNG)")](https://www.codechef.com/JLUG2020/problems/LTRCHNG)
 - [Hex Numbers](JLUG2020/HXTDC/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (HXTDC)")](https://www.codechef.com/JLUG2020/problems/HXTDC)
 
-
-### [DSA Learning Series](https://www.codechef.com/LEARNDSA "Visit contest on CodeChef (LEARNDSA)")
-#### [1: Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01 "Visit contest on CodeChef (LRNDSA01)")
-- [Life, the Universe, and Everything](LEARNDSA/LRNDSA01/TEST/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (TEST)")](https://www.codechef.com/LRNDSA01/problems/TEST)
-- [Reverse The Number](LEARNDSA/LRNDSA01/FLOW007/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (FLOW007)")](https://www.codechef.com/LRNDSA01/problems/FLOW007)
-- [Lapindromes](LEARNDSA/LRNDSA01/LAPIN/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (LAPIN)")](https://www.codechef.com/LRNDSA01/problems/LAPIN)
-- [Carvans](LEARNDSA/LRNDSA01/CARVANS/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CARVANS)")](https://www.codechef.com/LRNDSA01/problems/CARVANS)
+</details>
 
 
-### [ketek[i] Match 25.5](https://www.codechef.com/KM252020 "Visit contest on CodeChef (KM252020)")
+<details>
+<summary>
+    DSA Learning Series <a href="https://www.codechef.com/LEARNDSA">(LEARNDSA)</a>
+</summary>
+
+1. [Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01 "Visit contest on CodeChef (LRNDSA01)")
+    - [Life, the Universe, and Everything](LEARNDSA/LRNDSA01/TEST/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (TEST)")](https://www.codechef.com/LRNDSA01/problems/TEST)
+    - [Reverse The Number](LEARNDSA/LRNDSA01/FLOW007/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (FLOW007)")](https://www.codechef.com/LRNDSA01/problems/FLOW007)
+    - [Lapindromes](LEARNDSA/LRNDSA01/LAPIN/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (LAPIN)")](https://www.codechef.com/LRNDSA01/problems/LAPIN)
+    - [Carvans](LEARNDSA/LRNDSA01/CARVANS/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CARVANS)")](https://www.codechef.com/LRNDSA01/problems/CARVANS)
+
+</details>
+
+
+<details>
+<summary>
+    ketek[i] Match 25.5 <a href="https://www.codechef.com/KM252020">(KM252020)</a>
+</summary>
+
 - [Reverse Binary](KM252020/QM25P5A/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (QM25P5A)")](https://www.codechef.com/KM252020/problems/QM25P5A)
 
+</details>
 
-### [Crack me if you can!](https://www.codechef.com/CMYC2020 "Visit contest on CodeChef (CMYC2020)")
+
+<details>
+<summary>
+    Crack me if you can! <a href="https://www.codechef.com/CMYC2020">(CMYC2020)</a>
+</summary>
+
 - [Voritex and string](CMYC2020/CXORJ/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CXORJ)")](https://www.codechef.com/CMYC2020/problems/CXORJ)
 
+</details>
 
-### [June Challenge 2020 Division 2](https://www.codechef.com/JUNE20B "Visit contest on CodeChef (JUNE20B)")
+
+<details>
+<summary>
+    June Challenge 2020 Division 2 <a href="https://www.codechef.com/JUNE20B">(JUNE20B)</a>
+</summary>
+
 - [Chef and Price Control](JUNE20B/PRICECON/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (PRICECON)")](https://www.codechef.com/JUNE20B/problems/PRICECON)
 
+</details>
 
-### [June Cook-Off 2020 Division 2](https://www.codechef.com/COOK119B "Visit contest on CodeChef (COOK119B)")
+
+<details>
+<summary>
+    June Cook-Off 2020 Division 2 <a href="https://www.codechef.com/COOK119B">(COOK119B)</a>
+</summary>
+
 - [Cache Hits](COOK119B/CACHEHIT/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CACHEHIT)")](https://www.codechef.com/COOK119B/problems/CACHEHIT)
 
-### [Encoding August'20](https://www.codechef.com/ENAU2020 "Visit contest on CodeChef (ENAU2020)")
+</details>
+
+
+<details>
+<summary>
+    Encoding August'20 <a href="https://www.codechef.com/ENAU2020">(ENAU2020)</a>
+</summary>
+
 - [Angry Delta](ENAU2020/ECAUG202/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (ECAUG202)")](https://www.codechef.com/ENAU2020/problems/ECAUG202)
 
-### [CODEZEN 2.0](https://www.codechef.com/CZEN2020 "Visit contest on CodeChef (CZEN2020)")
+</details>
+
+
+<details>
+<summary>
+    CODEZEN 2.0 <a href="https://www.codechef.com/CZEN2020">(CZEN2020)</a>
+</summary>
+
 - [Zenny and Simple Sum](CZEN2020/SIPM/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (SIPM)")](https://www.codechef.com/CZEN2020/problems/SIPM)
 - [Sports Championship](CZEN2020/ZRACE/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (ZRACE)")](https://www.codechef.com/CZEN2020/problems/ZRACE)
 - [Alien New Challenge](CZEN2020/ALCHH/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (ALCHH)")](https://www.codechef.com/CZEN2020/problems/ALCHH)
 
+</details>
 
-### [Practice](https://www.codechef.com/problems/school "Visit practice problems on CodeChef")
-- [UEFA Champions League](PRACTICE/UCL/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (UCL)")](https://www.codechef.com/problems/UCL)
-- [BST Operations](PRACTICE/BSTOPS/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (BSTOPS)")](https://www.codechef.com/problems/BSTOPS)
-- [When to Take Medicine](PRACTICE/MEDIC/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (MEDIC)")](https://www.codechef.com/problems/MEDIC)
-- [Enormous Input Test](PRACTICE/INTEST/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (INTEST)")](https://www.codechef.com/problems/INTEST)
+
+<details>
+<summary>Practice</summary>
+
+- [Beginner](https://www.codechef.com/problems/school/ "View these problems on CodeChef")
+  - [UEFA Champions League](PRACTICE/UCL/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (UCL)")](https://www.codechef.com/problems/UCL)
+  - [BST Operations](PRACTICE/BSTOPS/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (BSTOPS)")](https://www.codechef.com/problems/BSTOPS)
+  - [When to Take Medicine](PRACTICE/MEDIC/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (MEDIC)")](https://www.codechef.com/problems/MEDIC)
+  - [Enormous Input Test](PRACTICE/INTEST/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (INTEST)")](https://www.codechef.com/problems/INTEST)
+
+</details>
