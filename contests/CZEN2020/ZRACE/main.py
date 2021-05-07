@@ -1,7 +1,7 @@
 T = int(input())
 
 for _ in range(T):
-    R, G, B, W, O = map(int, input().split())
+    R, G, B, W, O = map(int, input().split())  # noqa: E741
     METERS = 100
 
     red_team = METERS / R
