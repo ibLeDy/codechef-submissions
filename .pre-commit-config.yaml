@@ -1,32 +1,32 @@
 repos:
--   repo: https://github.com/pre-commit/pre-commit-hooks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v3.1.0
     hooks:
-    -   id: check-ast
-    -   id: debug-statements
-    -   id: detect-private-key
-    -   id: double-quote-string-fixer
-    -   id: end-of-file-fixer
-    -   id: mixed-line-ending
-    -   id: name-tests-test
-    -   id: requirements-txt-fixer
-    -   id: trailing-whitespace
--   repo: https://github.com/Lucas-C/pre-commit-hooks
+      - id: check-ast
+      - id: debug-statements
+      - id: detect-private-key
+      - id: double-quote-string-fixer
+      - id: end-of-file-fixer
+      - id: mixed-line-ending
+      - id: name-tests-test
+      - id: requirements-txt-fixer
+      - id: trailing-whitespace
+  - repo: https://github.com/Lucas-C/pre-commit-hooks
     rev: v1.1.7
     hooks:
-    -   id: remove-crlf
-    -   id: remove-tabs
--   repo: https://github.com/Lucas-C/pre-commit-hooks-safety
+      - id: remove-crlf
+      - id: remove-tabs
+  - repo: https://github.com/Lucas-C/pre-commit-hooks-safety
     rev: v1.1.0
     hooks:
-    -   id: python-safety-dependencies-check
--   repo: https://github.com/markdownlint/markdownlint
+      - id: python-safety-dependencies-check
+  - repo: https://github.com/markdownlint/markdownlint
     rev: v0.9.0
     hooks:
-    -   id: markdownlint
+      - id: markdownlint
         args: ["--rules=~MD012,~MD013,~MD033,~MD034"]
--   repo: https://gitlab.com/pycqa/flake8
+  - repo: https://gitlab.com/pycqa/flake8
     rev: 3.8.2
     hooks:
-    -   id: flake8
+      - id: flake8
         args: ["--ignore=E501"]
