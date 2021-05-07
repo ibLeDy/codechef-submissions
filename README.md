@@ -4,7 +4,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ibledy/codechef-recipes)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ibledy/codechef-recipes)
 
-
 <details>
 <summary>
     ketek[i] Power Match June 2019 <a href="https://www.codechef.com/KQ162019">(KQ162019)</a>
@@ -13,7 +12,6 @@
 - [Common Words](contests/KQ162019/QM16A/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (QM16A)")](https://www.codechef.com/KQ162019/problems/QM16A)
 
 </details>
-
 
 <details>
 <summary>
@@ -24,7 +22,6 @@
 
 </details>
 
-
 <details>
 <summary>
     Encoding October 2019 <a href="https://www.codechef.com/ENOC2019">(ENOC2019)</a>
@@ -34,7 +31,6 @@
 
 </details>
 
-
 <details>
 <summary>
     November Cook-Off 2019 Division 2 <a href="https://www.codechef.com/COOK112B">(COOK112B)</a>
@@ -43,7 +39,6 @@
 - [Chef Diet](contests/COOK112B/DIET/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (DIET)")](https://www.codechef.com/COOK112B/problems/DIET)
 
 </details>
-
 
 <details>
 <summary>
@@ -56,7 +51,6 @@
 
 </details>
 
-
 <details>
 <summary>
     January Challenge 2020 Division 2 <a href="https://www.codechef.com/JAN20B">(JAN20B)</a>
@@ -66,7 +60,6 @@
 
 </details>
 
-
 <details>
 <summary>
     ketek[i] QuickMatch 20 <a href="https://www.codechef.com/QM202020">(QM202020)</a>
@@ -75,7 +68,6 @@
 - [One or Zero](contests/QM202020/QM20A/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (QM20A)")](https://www.codechef.com/QM202020/problems/QM20A)
 
 </details>
-
 
 <details>
 <summary>
@@ -89,7 +81,6 @@
 
 </details>
 
-
 <details>
 <summary>
     February Cook-Off 2020 Division 2 <a href="https://www.codechef.com/COOK115B">(COOK115B)</a>
@@ -98,7 +89,6 @@
 - [Tax Slabs](contests/COOK115B/SLAB/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (SLAB)")](https://www.codechef.com/COOK115B/problems/SLAB)
 
 </details>
-
 
 <details>
 <summary>
@@ -109,7 +99,6 @@
 
 </details>
 
-
 <details>
 <summary>
     ketek[i] QuickMatch 24 <a href="https://www.codechef.com/QM242020">(QM242020)</a>
@@ -119,7 +108,6 @@
 
 </details>
 
-
 <details>
 <summary>
     March Challenge 2020 Division 2 <a href="https://www.codechef.com/MARCH20B">(MARCH20B)</a>
@@ -128,7 +116,6 @@
 - [Pintu and Fruits](contests/MARCH20B/CHPINTU/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CHPINTU)")](https://www.codechef.com/MARCH20B/problems/CHPINTU)
 
 </details>
-
 
 <details>
 <summary>
@@ -141,20 +128,18 @@
 
 </details>
 
-
 <details>
 <summary>
     DSA Learning Series <a href="https://www.codechef.com/LEARNDSA">(LEARNDSA)</a>
 </summary>
 
 1. [Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01 "Visit contest on CodeChef (LRNDSA01)")
-    - [Life, the Universe, and Everything](contests/LEARNDSA/LRNDSA01/TEST/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (TEST)")](https://www.codechef.com/LRNDSA01/problems/TEST)
-    - [Reverse The Number](contests/LEARNDSA/LRNDSA01/FLOW007/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (FLOW007)")](https://www.codechef.com/LRNDSA01/problems/FLOW007)
-    - [Lapindromes](contests/LEARNDSA/LRNDSA01/LAPIN/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (LAPIN)")](https://www.codechef.com/LRNDSA01/problems/LAPIN)
-    - [Carvans](contests/LEARNDSA/LRNDSA01/CARVANS/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CARVANS)")](https://www.codechef.com/LRNDSA01/problems/CARVANS)
+   - [Life, the Universe, and Everything](contests/LEARNDSA/LRNDSA01/TEST/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (TEST)")](https://www.codechef.com/LRNDSA01/problems/TEST)
+   - [Reverse The Number](contests/LEARNDSA/LRNDSA01/FLOW007/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (FLOW007)")](https://www.codechef.com/LRNDSA01/problems/FLOW007)
+   - [Lapindromes](contests/LEARNDSA/LRNDSA01/LAPIN/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (LAPIN)")](https://www.codechef.com/LRNDSA01/problems/LAPIN)
+   - [Carvans](contests/LEARNDSA/LRNDSA01/CARVANS/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CARVANS)")](https://www.codechef.com/LRNDSA01/problems/CARVANS)
 
 </details>
-
 
 <details>
 <summary>
@@ -165,7 +150,6 @@
 
 </details>
 
-
 <details>
 <summary>
     Crack me if you can! <a href="https://www.codechef.com/CMYC2020">(CMYC2020)</a>
@@ -174,7 +158,6 @@
 - [Voritex and string](contests/CMYC2020/CXORJ/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (CXORJ)")](https://www.codechef.com/CMYC2020/problems/CXORJ)
 
 </details>
-
 
 <details>
 <summary>
@@ -185,7 +168,6 @@
 
 </details>
 
-
 <details>
 <summary>
     June Cook-Off 2020 Division 2 <a href="https://www.codechef.com/COOK119B">(COOK119B)</a>
@@ -195,7 +177,6 @@
 
 </details>
 
-
 <details>
 <summary>
     Encoding August'20 <a href="https://www.codechef.com/ENAU2020">(ENAU2020)</a>
@@ -204,7 +185,6 @@
 - [Angry Delta](contests/ENAU2020/ECAUG202/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (ECAUG202)")](https://www.codechef.com/ENAU2020/problems/ECAUG202)
 
 </details>
-
 
 <details>
 <summary>
@@ -216,7 +196,6 @@
 - [Alien New Challenge](contests/CZEN2020/ALCHH/main.py) [![CodeChef green icon](assets/codechef_green.svg "View problem on CodeChef (ALCHH)")](https://www.codechef.com/CZEN2020/problems/ALCHH)
 
 </details>
-
 
 <details>
 <summary>Practice</summary>
