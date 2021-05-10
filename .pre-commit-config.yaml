@@ -21,8 +21,8 @@ repos:
     hooks:
       - id: markdownlint
         args: ["--rules=~MD012,~MD013,~MD033,~MD034"]
-  - repo: https://gitlab.com/pycqa/flake8
-    rev: 3.9.1
+  - repo: https://github.com/PyCQA/flake8
+    rev: 3.9.2
     hooks:
       - id: flake8
         args: ["--ignore=E501"]
