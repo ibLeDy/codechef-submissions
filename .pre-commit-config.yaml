@@ -20,7 +20,7 @@ repos:
       - id: remove-crlf
       - id: remove-tabs
   - repo: https://github.com/markdownlint/markdownlint
-    rev: v0.11.0
+    rev: v0.12.0
     hooks:
       - id: markdownlint
         args: ["--rules=~MD012,~MD013,~MD033,~MD034"]
